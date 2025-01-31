@@ -1,1 +1,1 @@
-Hello Git README.md
+Hello Git Ready to be amazed!
